@@ -1,4 +1,4 @@
 # IIIT-attendance
 this is my collage's E-Attendance.
 <br>
-Author: Dhaval Mayankbhai Gohil
+Author: Dhaval Mayankbhai Gohil(Hindu/Sagar)
